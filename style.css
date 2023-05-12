@@ -1,0 +1,41 @@
+.p1 {
+  background-color: orange;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  color: black;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: serif;
+}
+
+.p2 {
+  background-color: blue;
+  border-width: 1px;
+  border-style: solid;
+  border-color: yellow;
+  color: white;
+  font-size: 1em;
+  font-weight: normal;
+  font-family: serif;
+}
+
+.p3 {
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  color: black;
+  font-size: 24px;
+  font-weight: normal;
+  font-family: monospace;
+}
+
+.p4 {
+  background-color: grey;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: serif;
+}
